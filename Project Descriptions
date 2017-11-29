@@ -1,0 +1,16 @@
+Summary Of Project Descriptions
+
+AlternativeSplineProjectFinal.java: Group Project to Create a Spline interpolation function for a set of points. 
+                                    Has applications in many drawing and graphics programs
+
+MiniFootball2.java: Mini Football Game in Java: Runs in a GUI
+
+PlanetaryCalculations.java and PlanetarySystem.java: Program and User Interface to determine properties of protoplanetary systems
+                                                     from observations/other parameters
+                                                    
+PokerProbability.py: Program to output probability of winning given any poker round
+
+SciBowl.java: Program to simulate scoring in a jeapordy-like science quiz game.
+
+overbooking netlogo model.nlogo: NetLogo simulation to determine optimal overbooking percentages for airlines
+
